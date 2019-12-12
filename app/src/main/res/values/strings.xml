@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Azri Nurvani</string>
+    <string name="yellow_star">Yellow_star</string>
+
+    <string name="bio_text">Hello, my name is Azri Nurvani.
+    I was born on Lima Pulluh Kota, February, 5th, 1998. Iam 21 years old now.
+        I like music, football and science.
+        You can call me Azri, iam a newbie programmer, and i want to learn android programming until Expert.
+        See yaa....
+        askfbjasbfasjbfjasbjkfbasjgbjasgjbasjg
+        asklgblaskbgklaslkgbas
+        abslgasbklgbasklbglas
+        laskgblkasglkasbgklasbg
+        blaskgbakslbglkasbgklasbg
+        abslkgbasklgklasgbasklbg
+        aklsgbkaslbgkasklgbaslbg
+        blasgbaklsbglkasg
+        abklgabslkgbasklbglkasbglkasgbaskgl
+        aslkgasklgblkasgbasklb
+        jskbfasjf
+        klasglkasbkglasgkaslgbklasbgklasklgbasklgbasklgklas
+        aklsgbasklbgklag
+        alskgbasklgbas
+        agbklasblkgbas
+        absgkaslbgklas
+        lasgbkaslbg
+        basklgbasklb
+        blkaglkasbg
+        ;kkasgbaks;
+        baglksblkg
+    </string>
+    <string name="whats_your_nickname">What is your nickname ?</string>
+    <string name="done_button">Done</string>
+</resources>
